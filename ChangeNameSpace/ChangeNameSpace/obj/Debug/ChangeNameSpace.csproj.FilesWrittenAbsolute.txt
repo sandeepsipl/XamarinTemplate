@@ -1,0 +1,9 @@
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/bin/Debug/Newtonsoft.Json.dll
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/bin/Debug/System.Net.Http.dll
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/bin/Debug/System.Net.Http.Primitives.dll
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/bin/Debug/System.Net.Http.Extensions.dll
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/bin/Debug/ChangeNameSpace.dll.mdb
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/bin/Debug/ChangeNameSpace.dll
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/obj/Debug/ChangeNameSpace.dll
+/Users/macmini/Projects/ChangeNameSpace/ChangeNameSpace/obj/Debug/ChangeNameSpace.dll.mdb

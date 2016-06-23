@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="ChangeNameSpace/ChangeNameSpace.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChangeNameSpace/Service/ObjDataService.cs">
+    <Files>
+      <File FileName="ChangeNameSpace/Managers/APIManager.cs" Line="69" Column="15" />
+      <File FileName="ChangeNameSpace/Managers/ApplicationManager.cs" Line="117" Column="80" />
+      <File FileName="ChangeNameSpace/Service/ObjDataService.cs" Line="12" Column="4" />
+      <File FileName="ChangeNameSpace/DataModel/mainObjectGroup.cs" Line="27" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChangeNameSpace PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
